@@ -1,0 +1,15 @@
+.first{
+    background-color: black;
+    color : white
+}
+
+.second{
+    background: yellow;
+    color : black;
+}
+
+.share{
+    font-size: 28px;
+    font-family:Helvetica,'Times New Roman', sans-serif ;
+    border-style: groove; border : 2px solid rgb(255, 255, 255);
+}
