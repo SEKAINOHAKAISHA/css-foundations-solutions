@@ -8,7 +8,7 @@
     color : black;
 }
 
-.share{
+.first, .second{
     font-size: 28px;
     font-family:Helvetica,'Times New Roman', sans-serif ;
     border-style: groove; border : 2px solid rgb(165, 161, 161);
